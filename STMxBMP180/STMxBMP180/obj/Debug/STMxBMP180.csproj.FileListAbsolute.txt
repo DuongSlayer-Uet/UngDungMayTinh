@@ -1,0 +1,12 @@
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\bin\Debug\STMxBMP180.exe.config
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\bin\Debug\STMxBMP180.exe
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\bin\Debug\STMxBMP180.pdb
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.Form1.resources
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.Properties.Resources.resources
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.exe
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.pdb
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.loginform.resources
+C:\Users\ACER\Documents\Kì 7\UDMT\UI\STMxBMP180\STMxBMP180\obj\Debug\STMxBMP180.graph.resources
